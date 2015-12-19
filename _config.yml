@@ -1,6 +1,6 @@
 name: physichronicles
 favicon: null
-layout_spectrum: 0.39735202910378575
+layout_spectrum: 0.42192
 typography_spectrum: 0.691209756070748
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#DD403A'
   brandStrength: 0.5524890036322176
   lightness: 0.5679508217144758
-  saturation: 0.25665987469255924
+  saturation: 0.25
   rhythmicContrast: 0.9755567852407694
 purpose: []
