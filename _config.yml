@@ -1,0 +1,28 @@
+name: physichronicles
+favicon: null
+layout_spectrum: 0.39735202910378575
+typography_spectrum: 0.691209756070748
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5524890036322176
+  lightness: 0.5679508217144758
+  saturation: 0.25665987469255924
+  rhythmicContrast: 0.9755567852407694
+purpose: []
