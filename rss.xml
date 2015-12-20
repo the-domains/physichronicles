@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[physichronicles]]></title>
         <description><![CDATA[physichronicles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/physichronicles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 00:10:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 00:16:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/physichronicles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Star Wars social network]]></title>
+            <description><![CDATA[<article><h1>The Star Wars social network</h1><p>Some of us are looking forward to Christmas, and some of us are looking forward to the new film in the Star Wars franchise, The Force Awakens. Meanwhile, I decided to look at the whole 6-movie cycle from a quantitative point of view and extract the Star Wars social networks, both within each film and across the whole Star Wars universe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39239524c75a2d70738bc37d4e8ba8fd7bd9580c.png"></article>]]></description>
+            <link>http://evelinag.com/blog/2015/12-15-star-wars-social-network/index.html#.VnXpfJN95-W</link>
+            <guid isPermaLink="false">d2159d7b-3390-4b07-befc-607f7ba44a52</guid>
+            <pubDate>Sun, 20 Dec 2015 00:16:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to my Grid site]]></title>
-            <description><![CDATA[<article><h1>Welcome to my Grid site</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41bf09099b801f274ecca22cb0b1a657ad3ecbf2.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-my-grid-site/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to my Grid site</h1><p>Hi, there! This is my first grid post :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41bf09099b801f274ecca22cb0b1a657ad3ecbf2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/physichronicles/welcome-to-my-grid-site/index.html</link>
             <guid isPermaLink="false">17390b0f-1d99-43c7-9945-4bad9acc492e</guid>
             <pubDate>Sun, 20 Dec 2015 00:09:29 GMT</pubDate>
         </item>
