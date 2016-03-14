@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T01:24:32.819Z'
-dateModified: '2016-02-11T01:23:40.339Z'
+datePublished: '2016-03-14T00:08:10.985Z'
+dateModified: '2016-02-11T01:30:57.122Z'
 title: 21st-century Skills
 author: []
+sourcePath: _posts/2016-02-11-21st-century-skills.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-21st-century-skills.md
-published: true
 url: 21st-century-skills/index.html
 _type: Article
 
@@ -30,4 +30,4 @@ Communication. By "communication", I'm referring to the ability to present onese
 
 Coding. I always think of  "coding" as a form of communication as well. However, instead of communicating with fellow human, "coding" is communicating with machines. I think it is a totally different skill altogether from "communication" for, in machine world, there is no politics, no feeling, no impression whatsoever. You need not be tactful when dealing with machine. On the contrary, you need be direct and precise in telling machine what to do. 
 
-The ability to communicate and command machine (and that machine could be anything ranging from an automatic coffee maker to a supercomputer) is becoming imperative, due to the simple fact that nowadays our lives are deeply entangled with them.
+The ability to communicate and command machine (and that machine could be anything ranging from an automatic coffee maker to a supercomputer) is becoming imperative due to a simple fact that nowadays our lives are deeply entangled with them, and it is going to be even more so in future.
